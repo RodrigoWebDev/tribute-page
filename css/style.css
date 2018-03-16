@@ -1,0 +1,17 @@
+.container{
+    margin-top:50px;
+    padding:50px;
+    border-radius:10px;
+}
+
+.bg-grey{
+    background:#EEEEEE;
+}
+
+h1{
+    font-size:4rem;
+}
+
+.external-link{
+    font-size:2rem;
+}
